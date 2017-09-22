@@ -1,2 +1,0 @@
-A merge conflict is when the branch file has conflict with the master file. It tends to happen
-when the programmer edited the original script on the branch or master file.

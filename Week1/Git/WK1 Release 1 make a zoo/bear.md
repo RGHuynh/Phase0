@@ -1,5 +1,0 @@
-# Mammal
-
-* Crazy
-* Timmy
-* Whats

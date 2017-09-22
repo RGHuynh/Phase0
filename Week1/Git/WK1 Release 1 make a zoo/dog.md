@@ -1,5 +1,0 @@
-# Mammal
-
-* Hots
-* Bobs
-* Y

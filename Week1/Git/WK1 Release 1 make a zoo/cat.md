@@ -1,5 +1,0 @@
-# Mammal
-
-* J
-* CRAY
-* Say
